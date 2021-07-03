@@ -1,5 +1,5 @@
 # getqgisgeometry
-QGISのPythonコンソールからアクティブレイヤ（選択中のレイヤ）の図形全てをテキスト形式（WKT）でファイル出力するスクリプトです。  
+QGISのPythonコンソールからアクティブレイヤ（選択中のレイヤ）の全ての図形をテキスト形式（WKT）でファイル出力するスクリプトです。  
 getgeometry.pyのソースをコピーし、QGISのPythonコンソール（プラグイン->Pythonコンソール）のPythonエディタ（下図）に貼り付けて使用します。  
 ![image](https://user-images.githubusercontent.com/74547674/124368750-1f6bc780-dc9f-11eb-90dd-b6f89517dad9.png)
 
